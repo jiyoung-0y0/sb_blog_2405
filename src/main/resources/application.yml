@@ -20,7 +20,7 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: wldudskfn@gmail.com
+    username: cojar.info@gmail.com
     password: NEED_TO_INPUT_ON_SECRET
     properties:
       mail:
@@ -43,3 +43,5 @@ spring:
       org.hibernate.orm.jdbc.bind: TRACE
       org.hibernate.orm.jdbc.extract: TRACE
       org.springframework.transaction.interceptor: TRACE
+custom:
+  fileDirPath: C:\work\thumbnail
